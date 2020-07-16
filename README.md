@@ -1,2 +1,0 @@
-# Thinkstitute
-Online Tutoring Service
