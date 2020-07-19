@@ -1095,7 +1095,7 @@ nav .header-top .gray-text {
 }
 
 .case-studies-carousel .carousel-indicators #slide-0 {
-    background: url("../images/case-data-slide-0.png") no-repeat center center;
+    background: url("../images/case-data-slide-0.jpg") no-repeat center center;
     background-size: cover;
 }
 
@@ -1267,7 +1267,7 @@ form .form-control:focus {
 --------------------------------------- --*/
 
 .success-number {
-    background: url(../images/TutorBanner.jpg) center 140px no-repeat;
+    background: url(../images/TutorBanner.png) center 140px no-repeat;
     background-size: cover;
     background-attachment: fixed;
     padding-top: 31px;
