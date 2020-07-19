@@ -130,6 +130,57 @@ $(function() {
     $(".proDetModal6").on('click', function() {
         $("#portfolioDetModal6").modal('show');
     });
+    $(".proDetModal7").on('click', function() {
+        $("#portfolioDetModal7").modal('show');
+    });
+    $(".proDetModal8").on('click', function() {
+        $("#portfolioDetModal8").modal('show');
+    });
+    $(".proDetModal9").on('click', function() {
+        $("#portfolioDetModal9").modal('show');
+    });
+    $(".proDetModal10").on('click', function() {
+        $("#portfolioDetModal10").modal('show');
+    });
+    $(".proDetModal11").on('click', function() {
+        $("#portfolioDetModal11").modal('show');
+    });
+    $(".proDetModal12").on('click', function() {
+            $("#portfolioDetModal12").modal('show');
+    });
+    $(".proDetModal13").on('click', function() {
+            $("#portfolioDetModal13").modal('show');
+    });
+    $(".proDetModal14").on('click', function() {
+            $("#portfolioDetModal14").modal('show');
+    });
+    $(".proDetModal15").on('click', function() {
+            $("#portfolioDetModal15").modal('show');
+    });
+    $(".proDetModal16").on('click', function() {
+            $("#portfolioDetModal16").modal('show');
+    });
+    $(".proDetModal17").on('click', function() {
+            $("#portfolioDetModal17").modal('show');
+    });
+    $(".proDetModal18").on('click', function() {
+            $("#portfolioDetModal18").modal('show');
+    });
+    $(".proDetModal19").on('click', function() {
+            $("#portfolioDetModal19").modal('show');
+    });
+    $(".proDetModal20").on('click', function() {
+            $("#portfolioDetModal20").modal('show');
+    });
+    $(".proDetModal21").on('click', function() {
+            $("#portfolioDetModal21").modal('show');
+    });
+    $(".proDetModal22").on('click', function() {
+            $("#portfolioDetModal22").modal('show');
+        });
+    $(".proDetModal23").on('click', function() {
+            $("#portfolioDetModal23").modal('show');
+    });
 
     //team modal
 
@@ -151,6 +202,9 @@ $(function() {
     });
     $(".tmDetModal6").on('click', function() {
         $("#teamDetModal6").modal('show');
+    });
+    $(".tmDetModal7").on('click', function() {
+        $("#teamDetModal7").modal('show');
     });
     $(".getQuoteModal").on('click', function() {
         $("#getAQuoteModal").modal('show');
