@@ -786,7 +786,7 @@ nav .header-top .gray-text {
     transform: translate(-50%, -50%);
 }
 
-.portfolio .img_container:hover .overlay {
+.portfolio .img_container .overlay {
     transform: scale(1);
 }
 
@@ -838,7 +838,7 @@ nav .header-top .gray-text {
     cursor: pointer;
 }
 
-.portfolio .grid-item h3 a:hover {
+.portfolio .grid-item h3 a {
     color: #2584ba;
 }
 
